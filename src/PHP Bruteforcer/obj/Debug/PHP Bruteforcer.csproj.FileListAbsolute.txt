@@ -1,0 +1,13 @@
+C:\Users\hamza\source\repos\PHP Bruteforcer\bin\Debug\PHP Bruteforcer.exe.config
+C:\Users\hamza\source\repos\PHP Bruteforcer\bin\Debug\PHP Bruteforcer.exe
+C:\Users\hamza\source\repos\PHP Bruteforcer\bin\Debug\PHP Bruteforcer.pdb
+C:\Users\hamza\source\repos\PHP Bruteforcer\obj\Debug\PHP Bruteforcer.csprojAssemblyReference.cache
+C:\Users\hamza\source\repos\PHP Bruteforcer\obj\Debug\PHP_Bruteforcer.Form1.resources
+C:\Users\hamza\source\repos\PHP Bruteforcer\obj\Debug\PHP_Bruteforcer.Properties.Resources.resources
+C:\Users\hamza\source\repos\PHP Bruteforcer\obj\Debug\PHP Bruteforcer.csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\PHP Bruteforcer\obj\Debug\PHP Bruteforcer.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\PHP Bruteforcer\obj\Debug\PHP Bruteforcer.exe
+C:\Users\hamza\source\repos\PHP Bruteforcer\obj\Debug\PHP Bruteforcer.pdb
+C:\Users\hamza\source\repos\PHP Bruteforcer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hamza\source\repos\PHP Bruteforcer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hamza\source\repos\PHP Bruteforcer\obj\Debug\PHP Bruteforcer.csproj.CopyComplete
